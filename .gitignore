@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/.idea/
+TestProjectGroup1_2022.iml
