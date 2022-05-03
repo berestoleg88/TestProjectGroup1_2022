@@ -8,6 +8,10 @@ public class Main {
         //sout
         System.out.println("Hello world!");
 
+
+        Task task = new Task("Running");
+        System.out.println(task);
+
     }
 
 
